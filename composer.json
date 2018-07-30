@@ -1,0 +1,17 @@
+{
+	"name": "jvs/jvs16",
+	"description": "Testik",
+	"authors" : [
+		{
+			"name": "Boris",
+			"email": "dytell-2607@gmail.com"
+		}
+		],
+    "require": {
+        "slim/slim": "^3.0",
+		"j4mie/idiorm": "1.3.*"
+    },
+	    "autoload": {
+        "classmap": ["nokogiri.php"]
+    }
+}
